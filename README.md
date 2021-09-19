@@ -15,7 +15,7 @@
 * 누가 만들었나요?
 
     똥띠TV가 만들었고, 여러 사람들이 검토하고 피드백을 주었습니다.
-    
+
 * 어디서부터 보면 되나요?
 
-    [여기서부터 시작하시면 됩니다.]()
+    [여기서부터 시작하시면 됩니다.](https://github.com/Ddongddi/discordbot-guidelines/blob/main/basic/basic.md)
