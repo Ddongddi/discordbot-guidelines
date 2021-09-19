@@ -18,4 +18,4 @@
 
 * 어디서부터 보면 되나요?
 
-    [여기서부터 시작하시면 됩니다.](https://github.com/Ddongddi/discordbot-guidelines/blob/main/basic/basic.md)
+    [여기서부터 시작하시면 됩니다.](https://github.com/Ddongddi/discordbot-guidelines/blob/main/guidelines/basic.md)
